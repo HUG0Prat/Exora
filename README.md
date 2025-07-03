@@ -40,7 +40,7 @@ Pour exécuter ce projet, vous aurez besoin des bibliothèques suivantes :
 Vous pouvez installer ces bibliothèques avec `pip` :
 
 ```sh
-pip install pyqt5 pygame yt-dlp
+pip install pyqt5 pygame yt-dlp mutagen
 ```
 
 ## Processus d'Installation
